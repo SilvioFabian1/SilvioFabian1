@@ -1,4 +1,4 @@
-![Creme e Marrom Ilustração Aula de Ciências Sociais Educacional Apresentação](https://user-images.githubusercontent.com/83843862/118684683-cde3a800-b7d8-11eb-98c8-ac2275102a13.png)
+![Creme e Marrom Ilustração Aula de Ciências Sociais Educacional Apresentação](https://user-images.githubusercontent.com/83843862/118690570-9415a000-b7de-11eb-9a8b-206336dc0674.png)
 
 # Olá, eu sou Silvio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 ## Bem-vindos ao meu perfil!
