@@ -1,6 +1,6 @@
 ![Creme e Marrom Ilustração Aula de Ciências Sociais Educacional Apresentação](https://user-images.githubusercontent.com/83843862/118691747-c1168280-b7df-11eb-9e10-f6acf67b27a8.png)
 
-# Olá, eu sou Silvio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Olá, eu sou Sílvio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 ## Bem-vindos ao meu perfil!
 
 Sou estudante de **Desenvolvimento WEB** na _Trybe_. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
