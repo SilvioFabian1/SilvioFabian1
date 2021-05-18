@@ -25,6 +25,6 @@ Sou estudante de **Desenvolvimento WEB** na _Trybe_. Gosto de séries, músicas 
 
 ## Github Stats :zap:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silviofabian1&show_icons=true&theme=dark&locale=en&layout=compact" alt="silviofabian1" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silviofabian1&show_icons=true&theme=dark&locale=en&layout=compact" alt="silviofabian1" /></p>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silviofabian1&show_icons=true&theme=dark&locale=en" alt="silviofabian1" /></p>
