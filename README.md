@@ -1,13 +1,13 @@
 ![Creme e Marrom Ilustração Aula de Ciências Sociais Educacional Apresentação](https://user-images.githubusercontent.com/83843862/118691747-c1168280-b7df-11eb-9e10-f6acf67b27a8.png)
 
-# Olá, eu sou Sílvio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" max-width="400px">
+# Olá, eu sou Sílvio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" max-width="100px">
 ## Bem-vindos ao meu perfil!
-##
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Silvio">
 
 Sou estudante de **Desenvolvimento WEB** na _Trybe_. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
 
 ## Tecnologias e ferramentas em aprendizado :desktop_computer:
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Silvio">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
