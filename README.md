@@ -2,7 +2,7 @@
 
 # Olá, eu sou Sílvio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" max-width="400px">
 ## Bem-vindos ao meu perfil!
-
+##
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Silvio">
 
 Sou estudante de **Desenvolvimento WEB** na _Trybe_. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
