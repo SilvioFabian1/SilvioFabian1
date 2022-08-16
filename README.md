@@ -3,7 +3,7 @@
 # Olá, eu sou Sílvio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" max-width="100px">
 ## Bem-vindos ao meu perfil!
 
-Sou estudante de **Desenvolvimento WEB** na _Trybe_. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
+Sou estudante de **Desenvolvimento WEB**. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
 
 ## Tecnologias e ferramentas em aprendizado :desktop_computer:
 
