@@ -20,11 +20,9 @@ Sou estudante de **Desenvolvimento WEB**. Gosto de séries, músicas em geral, l
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Acompanhe minhas redes sociais :thumbsup:
+## Acompanhe minha rede social :thumbsup:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silvio-fabian/)](https://www.linkedin.com/in/silvio-fabian/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/silvio_fabian/)](https://www.instagram.com/silvio_fabian/)
-
 ## Github Stats :zap:
 
 [![Silvio github stats](https://github-readme-stats.vercel.app/api?username=SilvioFabian1&show_icons=true&theme=dark&locale)](https://github.com/SilvioFabian1/github-readme-stats) 
