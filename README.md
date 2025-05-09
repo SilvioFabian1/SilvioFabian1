@@ -11,7 +11,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ## Entre em contato comigo :thumbsup:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silvio-fabian/)](https://www.linkedin.com/in/silvio-fabian/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/silvio-fabian/)
+
 ## Github Stats :zap:
 
 [![Silvio github stats](https://github-readme-stats.vercel.app/api?username=SilvioFabian1&show_icons=true&theme=dark&locale)](https://github.com/SilvioFabian1/github-readme-stats) 
