@@ -11,7 +11,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ## Entre em contato comigo :thumbsup:
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/silvio-fabian/)]
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/silvio-fabian/)
 
 ## Github Stats :zap:
 
