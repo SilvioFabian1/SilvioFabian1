@@ -3,7 +3,7 @@
 # Olá, eu sou Sílvio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" max-width="100px">
 ## Bem-vindos ao meu perfil!
 
-Sou estudante de **Desenvolvimento WEB**. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ## Tecnologias e ferramentas em aprendizado :desktop_computer:
 
@@ -12,11 +12,8 @@ Sou estudante de **Desenvolvimento WEB**. Gosto de séries, músicas em geral, l
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) -->
-<!-- ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
