@@ -6,6 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ## Tecnologias que domino :desktop_computer:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Silvio">
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux)](https://skillicons.dev)
 
 ## Entre em contato comigo :thumbsup:
