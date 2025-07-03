@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ## Tecnologias que domino :desktop_computer:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,tailwind)](https://skillicons.dev)
 
 ## Entre em contato comigo :thumbsup:
 
